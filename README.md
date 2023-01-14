@@ -1,31 +1,25 @@
-<h1 align='center'>
-👋 Hi!
-</h1>
+<img align="right" alt="coding" width="300" src="./assets/coding.gif">
 
-<h3 align='center'>
-<code>$ whoami</code>
-</h3>
+# 👋 Hi! I am Luca
 
-<p align='center'>
-📈 Data scientist at <a href="https://www.futura.study/">Futura</a> 
+📈 Data scientist at [Futura](https://www.futura.study/)
 <br>
-🎓 Teaching assistant at <a href="https://www.unimi.it/en">Università degli Studi di Milano</a>
+🎓 Teaching assistant at [Università degli Studi di Milano](https://www.unimi.it/en)
 <br>
-🌟 Stargazer and repositories <a href="https://github.com/baggiponte?tab=stars">collector</a>
-</p>
+🌟 Stargazer and repositories [collector](https://github.com/baggiponte?tab=stars)
 
-<h3 align='center'>
+<h3 align="center">
 🛠 Solving problems with
 </h3>
 
-<p align='center'>
+<p align="center">
 <img height="32" width="32" src="https://cdn.simpleicons.org/python">
 <img height="32" width="32" src="https://cdn.simpleicons.org/julia">
 <img height="32" width="32" src="https://cdn.simpleicons.org/lua">
 <img height="32" width="32" src="https://cdn.simpleicons.org/r">
 </p>
 
-<p align='center'>
+<p align="center">
 <img height="32" width="32" src="https://cdn.simpleicons.org/numpy">
 <img height="32" width="32" src="https://cdn.simpleicons.org/scipy">
 <img height="32" width="32" src="https://cdn.simpleicons.org/pandas">
@@ -34,7 +28,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow">
 </p>
 
-<p align='center'>
+<p align="center">
 <img height="32" width="32" src="https://cdn.simpleicons.org/duckdb">
 <img height="32" width="32" src="https://cdn.simpleicons.org/fastapi">
 <img height="32" width="32" src="https://cdn.simpleicons.org/streamlit">
@@ -42,16 +36,16 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws">
 </p>
 
-<p align='center'>
+<p align="center">
 <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash">
 <img height="32" width="32" src="https://cdn.simpleicons.org/neovim">
 </p>
 
-<h3 align='center'>
+<h3 align="center">
 📚 Learning about...
 </h3>
 
-<p align='center'>
+<p align="center">
 <img height="32" width="32" src="https://cdn.simpleicons.org/airbyte">
 <img height="32" width="32" src="https://cdn.simpleicons.org/snowflake">
 <img height="32" width="32" src="https://cdn.simpleicons.org/databricks">
@@ -61,7 +55,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/mlflow">
 </p>
 
-<p align='center'>
+<p align="center">
 <img height="32" width="32" src="https://cdn.simpleicons.org/pytorchlightning">
 <img height="32" width="32" src="https://cdn.simpleicons.org/pyg">
 <img height="32" width="32" src="https://cdn.simpleicons.org/rust">
@@ -70,11 +64,7 @@
 </p>
 
 
-*** 
-
-<h3 align='center'>
-👾 How can I help you?
-</h3>
+## 👾 What I have been up to...
 
 * 🎬 `pymi-polars`: get stared with `polars`, a fast dataframe library with an embarrassingly parallel execution engine, written in rust :crab:
 * 🎬 [`pymi-cookiecutter`](https://baggiponte.github.io/pymi-cookiecutter/): get started with `cookiecutter`, a library to build coding project templates.
