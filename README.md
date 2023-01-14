@@ -1,59 +1,57 @@
-<center>
+<h1 align='center'>
+👋 Hi!
+</h1>
 
-# :wave: Hi!
+<h3 align='center'>
+<code>$ whoami</code>
+</h3>
 
-### `$ whoami`
-
-:chart_with_upwards_trend: Data scientist at [Futura](https://www.futura.study/) 
+<p align='center'>
+📈 Data scientist at <a href="https://www.futura.study/">Futura</a> 
 <br>
-:mortar_board: Teaching assistant at [Università degli Studi di Milano](https://www.unimi.it/en)
+🎓 Teaching assistant at <a href="https://www.unimi.it/en">Università degli Studi di Milano</a>
 <br>
-:star2: Stargazer and [collector](https://github.com/baggiponte?tab=stars)
+🌟 Stargazer and repositories <a href="https://github.com/baggiponte?tab=stars">collector</a>
+</p>
 
-#### :hammer_and_wrench: Solving problems with
+<h3 align='center'>
+🛠 Solving problems with
+</h3>
 
-
+<p align='center'>
 <img height="32" width="32" src="https://cdn.simpleicons.org/python">
 <img height="32" width="32" src="https://cdn.simpleicons.org/julia">
 <img height="32" width="32" src="https://cdn.simpleicons.org/lua">
 <img height="32" width="32" src="https://cdn.simpleicons.org/r">
+</p>
 
-<br>
-<br>
-<img height="32" width="32" src="https://cdn.simpleicons.org/gnubash">
-<img height="32" width="32" src="https://cdn.simpleicons.org/neovim">
-
-<br>
-<br>
-
+<p align='center'>
 <img height="32" width="32" src="https://cdn.simpleicons.org/numpy">
 <img height="32" width="32" src="https://cdn.simpleicons.org/scipy">
 <img height="32" width="32" src="https://cdn.simpleicons.org/pandas">
 <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn">
 <img height="32" width="32" src="https://cdn.simpleicons.org/pytorch">
 <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow">
+</p>
 
-<br>
-
-<img height="32" width="32" src="https://cdn.simpleicons.org/opencv">
+<p align='center'>
+<img height="32" width="32" src="https://cdn.simpleicons.org/duckdb">
 <img height="32" width="32" src="https://cdn.simpleicons.org/fastapi">
 <img height="32" width="32" src="https://cdn.simpleicons.org/streamlit">
-<img height="32" width="32" src="https://cdn.simpleicons.org/plotly">
-<img height="32" width="32" src="https://cdn.simpleicons.org/pytest">
-
-<br>
-<br>
-<img height="32" width="32" src="https://cdn.simpleicons.org/duckdb">
-<img height="32" width="32" src="https://cdn.simpleicons.org/mysql">
-<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql">
-<img height="32" width="32" src="https://cdn.simpleicons.org/sqlite">
-
-
-<img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws">
 <img height="32" width="32" src="https://cdn.simpleicons.org/docker">
+<img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws">
+</p>
 
-#### :books: Learning about...
+<p align='center'>
+<img height="32" width="32" src="https://cdn.simpleicons.org/gnubash">
+<img height="32" width="32" src="https://cdn.simpleicons.org/neovim">
+</p>
 
+<h3 align='center'>
+📚 Learning about...
+</h3>
+
+<p align='center'>
 <img height="32" width="32" src="https://cdn.simpleicons.org/airbyte">
 <img height="32" width="32" src="https://cdn.simpleicons.org/snowflake">
 <img height="32" width="32" src="https://cdn.simpleicons.org/databricks">
@@ -61,32 +59,28 @@
 <br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/dvc">
 <img height="32" width="32" src="https://cdn.simpleicons.org/mlflow">
+</p>
 
-<br>
-<br>
+<p align='center'>
 <img height="32" width="32" src="https://cdn.simpleicons.org/pytorchlightning">
 <img height="32" width="32" src="https://cdn.simpleicons.org/pyg">
 <img height="32" width="32" src="https://cdn.simpleicons.org/rust">
 <img height="32" width="32" src="https://cdn.simpleicons.org/nim">
 <img height="32" width="32" src="https://cdn.simpleicons.org/zig">
+</p>
 
-</center>
 
 *** 
 
-<center>
+<h3 align='center'>
+👾 How can I help you?
+</h3>
 
-### :movie_camera: How can I help you?
+* 🎬 `pymi-polars`: get stared with `polars`, a fast dataframe library with an embarrassingly parallel execution engine, written in rust :crab:
+* 🎬 [`pymi-cookiecutter`](https://baggiponte.github.io/pymi-cookiecutter/): get started with `cookiecutter`, a library to build coding project templates.
+* 🕶 [`awesome-pandas-alternatives`](https://github.com/baggiponte/awesome-pandas-alternatives): explore dataframe libraries alternative to `pandas`.
+* 🕶 [`awesome-causal-inference`](https://github.com/baggiponte/awesome-causal-inference) :construction: explore causal inference libraries.
 
-</center>
-
-* :movie_camera: `pymi-polars`: get stared with `polars`, a fast dataframe library with an embarrassingly parallel execution engine, written in rust :crab:
-* :movie_camera: [`pymi-cookiecutter`](https://baggiponte.github.io/pymi-cookiecutter/): get started with `cookiecutter`, a library to build coding project templates.
-* :dark_sunglasses: [`awesome-pandas-alternatives`](https://github.com/baggiponte/awesome-pandas-alternatives): explore dataframe libraries alternative to `pandas`.
-* :dark_sunglasses: [`awesome-causal-inference`](https://github.com/baggiponte/awesome-causal-inference) :construction: explore causal inference libraries.
-
-</center>
-
-## Credits
+#### Credits
 
 * [Simple Icons](https://simpleicons.org/)
