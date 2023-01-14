@@ -2,11 +2,20 @@
 
 # 👋 Hi! I am Luca
 
-📈 Data scientist at [Futura](https://www.futura.study/)
-<br>
-🎓 Teaching assistant at [Università degli Studi di Milano](https://www.unimi.it/en)
-<br>
-🌟 Stargazer and repositories [collector](https://github.com/baggiponte?tab=stars)
+```bash
+$ cat luca.json
+{
+  "currently": [
+    "💻 Data scientist at www.futura.study",
+    "🎓 Teaching assistant at www.unimi.it"
+  ],
+  "interests": [
+    "📈 Time series forecasting",
+    "🏷 Machine learning",
+    "🎨 Data visualisation"
+  ]
+}
+```
 
 <h3 align="center">
 🛠 Solving problems with
