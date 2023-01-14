@@ -83,3 +83,4 @@ $ cat luca.json
 #### Credits
 
 * [Simple Icons](https://simpleicons.org/)
+* [LottiFiles](https://lottiefiles.com/) and [Seemon Das](https://lottiefiles.com/d9jrcyllyy)
