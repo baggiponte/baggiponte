@@ -6,8 +6,8 @@
 $ cat luca.json
 {
   "currently": [
-    "💻 Data scientist at www.futura.study",
-    "🎓 Teaching assistant at www.unimi.it"
+    "💻 Machine Learning Engineer at www.futura.study",
+    "🎓 Computer Science and Statistics TA at www.unimi.it"
   ],
   "interests": [
     "📈 Time series forecasting",
