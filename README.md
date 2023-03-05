@@ -75,12 +75,14 @@ $ cat luca.json
 
 ## 👾 What I have been up to...
 
-* 🎬 `pymi-polars`: get stared with `polars`, a fast dataframe library with an embarrassingly parallel execution engine, written in rust :crab:
+* 🎬 `pymi-pyo3`: how to use `maturin` and `PyO3` to build python packages with a rust core.
+* 🎬 [`pymi-polars`](https://baggiponte.github.io/pymi-polars): get stared with `polars`, a fast dataframe library with an embarrassingly parallel execution engine, written in rust :crab:
 * 🎬 [`pymi-cookiecutter`](https://baggiponte.github.io/pymi-cookiecutter/): get started with `cookiecutter`, a library to build coding project templates.
 * 🕶 [`awesome-pandas-alternatives`](https://github.com/baggiponte/awesome-pandas-alternatives): explore dataframe libraries alternative to `pandas`.
 * 🕶 [`awesome-causal-inference`](https://github.com/baggiponte/awesome-causal-inference) :construction: explore causal inference libraries.
 
-#### Credits
-
-* [Simple Icons](https://simpleicons.org/)
-* [LottiFiles](https://lottiefiles.com/) and [Seemon Das](https://lottiefiles.com/d9jrcyllyy)
+> **Note**
+>
+> Credits:
+> * [Simple Icons](https://simpleicons.org/)
+> * [LottiFiles](https://lottiefiles.com/) and [Seemon Das](https://lottiefiles.com/d9jrcyllyy)
