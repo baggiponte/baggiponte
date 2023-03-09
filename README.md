@@ -75,9 +75,9 @@ $ cat luca.json
 
 ## 👾 What I have been up to...
 
-* 🎬 `pymi-pyo3`: how to use `maturin` and `PyO3` to build python packages with a rust core.
-* 🎬 [`pymi-polars`](https://baggiponte.github.io/pymi-polars): get stared with `polars`, a fast dataframe library with an embarrassingly parallel execution engine, written in rust :crab:
-* 🎬 [`pymi-cookiecutter`](https://baggiponte.github.io/pymi-cookiecutter/): get started with `cookiecutter`, a library to build coding project templates.
+* 🎬 [`pymi-pyo3`](https://baggiponte.github.io/pymi-pyo3): how to use `maturin` and `PyO3` to build python packages with a rust core 🦀
+* 🎬 [`pymi-polars`](https://baggiponte.github.io/pymi-polars): get stared with `polars`, a fast dataframe library with an embarrassingly parallel execution engine, written in rust 🐻‍❄️
+* 🎬 [`pymi-cookiecutter`](https://baggiponte.github.io/pymi-cookiecutter/): get started with `cookiecutter`, a library to build coding project templates 🍪
 * 🕶 [`awesome-pandas-alternatives`](https://github.com/baggiponte/awesome-pandas-alternatives): explore dataframe libraries alternative to `pandas`.
 * 🕶 [`awesome-causal-inference`](https://github.com/baggiponte/awesome-causal-inference) :construction: explore causal inference libraries.
 
