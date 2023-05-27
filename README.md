@@ -1,5 +1,3 @@
-<center> <img src="./assets/coding.gif" alt="coding" width="300"> </center>
-
 # 👋 Hi! I am Luca
 
 ```bash
@@ -80,9 +78,3 @@ $ cat luca.json
 * 🎬 [`pymi-polars`](https://baggiponte.github.io/pymi-polars): get stared with `polars`, a fast dataframe library with an embarrassingly parallel execution engine, written in Rust 🐻‍❄️
 * 🎬 [`pymi-cookiecutter`](https://baggiponte.github.io/pymi-cookiecutter/): get started with `cookiecutter`, a library to build coding project templates 🍪
 * 🕶 [`awesome-pandas-alternatives`](https://github.com/baggiponte/awesome-pandas-alternatives): explore dataframe libraries alternative to `pandas`.
-
-> **Note**
->
-> Credits:
-> * [Simple Icons](https://simpleicons.org/)
-> * [LottiFiles](https://lottiefiles.com/) and [Seemon Das](https://lottiefiles.com/d9jrcyllyy)
