@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="300" src="./assets/coding.gif">
+<center> <img src="./assets/coding.gif" alt="coding" width="300"> </center>
 
 # 👋 Hi! I am Luca
 
@@ -75,11 +75,11 @@ $ cat luca.json
 
 ## 👾 What I have been up to...
 
-* 🎬 [`pymi-pyo3`](https://baggiponte.github.io/pymi-pyo3): how to use `maturin` and `PyO3` to build python packages with a rust core 🦀
-* 🎬 [`pymi-polars`](https://baggiponte.github.io/pymi-polars): get stared with `polars`, a fast dataframe library with an embarrassingly parallel execution engine, written in rust 🐻‍❄️
+* 🎬 [`pyconit-rust-is-easy`](https://github.com/baggiponte/pyconit-rust-is-easy): Rust is easy, or what Pythonistas can learn from Rust to improve on their code 🐍
+* 🎬 [`pymi-pyo3`](https://baggiponte.github.io/pymi-pyo3): how to use `maturin` and `PyO3` to build python packages with a Rust core 🦀
+* 🎬 [`pymi-polars`](https://baggiponte.github.io/pymi-polars): get stared with `polars`, a fast dataframe library with an embarrassingly parallel execution engine, written in Rust 🐻‍❄️
 * 🎬 [`pymi-cookiecutter`](https://baggiponte.github.io/pymi-cookiecutter/): get started with `cookiecutter`, a library to build coding project templates 🍪
 * 🕶 [`awesome-pandas-alternatives`](https://github.com/baggiponte/awesome-pandas-alternatives): explore dataframe libraries alternative to `pandas`.
-* 🕶 [`awesome-causal-inference`](https://github.com/baggiponte/awesome-causal-inference) :construction: explore causal inference libraries.
 
 > **Note**
 >
