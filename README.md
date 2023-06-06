@@ -73,8 +73,8 @@ $ cat luca.json
 
 ## 👾 What I have been up to...
 
-* 🎬 [`pyconit-polars`](https://github.com/baggiponte/pyconit-polars): Polars: is the great dataframe showdown finally over? 🐻‍❄️ v 🐼
-* 🎬 [`pyconit-rust-is-easy`](https://github.com/baggiponte/pyconit-rust-is-easy): Rust is easy, or what Pythonistas can learn from Rust to improve on their code 🐍
+* 🎬 [`pyconit-polars`](https://github.com/baggiponte/pyconit-polars): `Polars`: is the great dataframe showdown finally over? 🐻‍❄️ v 🐼
+* 🎬 [`pyconit-rust-is-easy`](https://github.com/baggiponte/pyconit-rust-is-easy): Rust is easy, or what Pythonistas can learn to improve on their code 🐍
 * 🎬 [`pymi-pyo3`](https://baggiponte.github.io/pymi-pyo3): how to use `maturin` and `PyO3` to build python packages with a Rust core 🦀
 * 🎬 [`pymi-polars`](https://baggiponte.github.io/pymi-polars): get stared with `Polars`, a fast dataframe library with an embarrassingly parallel execution engine, written in Rust 🐻‍❄️
 * 🎬 [`pymi-cookiecutter`](https://baggiponte.github.io/pymi-cookiecutter/): get started with `cookiecutter`, a library to build coding project templates 🍪
