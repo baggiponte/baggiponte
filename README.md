@@ -27,25 +27,32 @@ $ cat luca.json
 </p>
 
 <p align="center">
+<img height="32" width="32" src="https://cdn.simpleicons.org/pandas">
+<img height="32" width="32" src="https://cdn.simpleicons.org/polars">
+<img height="32" width="32" src="https://cdn.simpleicons.org/duckdb">
+<br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/numpy">
 <img height="32" width="32" src="https://cdn.simpleicons.org/scipy">
-<img height="32" width="32" src="https://cdn.simpleicons.org/pandas">
 <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn">
 <img height="32" width="32" src="https://cdn.simpleicons.org/pytorch">
 <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow">
 </p>
 
 <p align="center">
-<img height="32" width="32" src="https://cdn.simpleicons.org/duckdb">
+
 <img height="32" width="32" src="https://cdn.simpleicons.org/fastapi">
 <img height="32" width="32" src="https://cdn.simpleicons.org/streamlit">
 <img height="32" width="32" src="https://cdn.simpleicons.org/docker">
+<img height="32" width="32" src="https://cdn.simpleicons.org/terraform">
 <img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws">
 </p>
 
 <p align="center">
 <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash">
+<img height="32" width="32" src="https://cdn.simpleicons.org/githubactions">
 <img height="32" width="32" src="https://cdn.simpleicons.org/neovim">
+<img height="32" width="32" src="https://cdn.simpleicons.org/precommit">
+<img height="32" width="32" src="https://cdn.simpleicons.org/ruff">
 </p>
 
 <h3 align="center">
@@ -53,19 +60,23 @@ $ cat luca.json
 </h3>
 
 <p align="center">
+<img height="32" width="32" src="https://cdn.simpleicons.org/dvc">
+<img height="32" width="32" src="https://cdn.simpleicons.org/mlflow">
+<img height="32" width="32" src="https://cdn.simpleicons.org/pytest">
+<br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/airbyte">
 <img height="32" width="32" src="https://cdn.simpleicons.org/snowflake">
 <img height="32" width="32" src="https://cdn.simpleicons.org/databricks">
 <img height="32" width="32" src="https://cdn.simpleicons.org/dbt">
-<br>
-<img height="32" width="32" src="https://cdn.simpleicons.org/dvc">
-<img height="32" width="32" src="https://cdn.simpleicons.org/mlflow">
 </p>
 
 <p align="center">
-<img height="32" width="32" src="https://cdn.simpleicons.org/pytorchlightning">
+<img height="32" width="32" src="https://cdn.simpleicons.org/lightning">
 <img height="32" width="32" src="https://cdn.simpleicons.org/pyg">
 <img height="32" width="32" src="https://cdn.simpleicons.org/rust">
+</p>
+
+<p align="center">
 <img height="32" width="32" src="https://cdn.simpleicons.org/nim">
 <img height="32" width="32" src="https://cdn.simpleicons.org/zig">
 </p>
