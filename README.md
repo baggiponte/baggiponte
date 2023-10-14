@@ -4,8 +4,11 @@
 $ cat luca.json
 {
   "currently": [
-    "💻 Machine Learning Engineer at www.futura.study",
+    "💻 Machine Learning Engineer at www.xtreamers.io",
     "🎓 Computer Science and Statistics TA at www.unimi.it"
+  ],
+  "contributing": [
+    "neocortexdb/functime"
   ],
   "interests": [
     "📈 Time series forecasting",
