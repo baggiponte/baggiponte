@@ -87,6 +87,7 @@ $ cat luca.json
 
 ## 👾 What I have been up to...
 
+* 🎬 [`kaggledays-functime`](https://github.com/baggiponte/kaggeldays-functime): Scalable time-series forecasting with Polars
 * 🎬 [`pyconpt-polars`](https://github.com/baggiponte/pyconit-polars): I know `Polars` is fast, but my data pipelines are written in `pandas`!
 * 🎬 [`pyconit-polars`](https://github.com/baggiponte/pyconit-polars): `Polars`: is the great dataframe showdown finally over? 🐻‍❄️ v 🐼
 * 🎬 [`pyconit-rust-is-easy`](https://github.com/baggiponte/pyconit-rust-is-easy): Rust is easy, or what Pythonistas can learn to improve on their code 🐍
